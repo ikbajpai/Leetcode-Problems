@@ -7,9 +7,18 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0060-permutation-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
