@@ -16,9 +16,14 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
