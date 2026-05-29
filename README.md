@@ -9,6 +9,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0060-permutation-sequence) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | ------- |
 | [0001-two-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0001-two-sum) |
 | [3093-longest-common-suffix-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Trie
 |  |
 | ------- |
