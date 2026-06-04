@@ -5,9 +5,10 @@ class Solution:
             count =r-l+1
             return count
         for x in range(r+1):
-            if l<=x**k<=r:
+            p=x**k
+            if l<=p<=r:
                 count+=1
-            elif x**k>r:
+            elif p>r:
                 break
         return count
         
