@@ -1,5 +1,5 @@
 class Solution:
-    def ListOfDigits(Self, num):
+    def ListOfDigits(self, num):
         ans=[]
         while num:
             ans.append(num%10)
