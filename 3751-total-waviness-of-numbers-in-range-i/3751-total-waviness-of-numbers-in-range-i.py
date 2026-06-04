@@ -8,7 +8,7 @@ class Solution:
         return ans
     def NumberOfDigits(self, num):
         count=0
-        while num:
+        while num>0:
             num=num//10
             count+=1
         return count
