@@ -13,6 +13,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Recursion
 |  |
@@ -77,6 +78,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
 |  |
 | ------- |
