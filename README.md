@@ -37,6 +37,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [2126-destroying-asteroids](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -71,6 +72,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3932-count-k-th-roots-in-a-range) |
@@ -83,4 +85,8 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
