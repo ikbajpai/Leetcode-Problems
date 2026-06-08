@@ -41,6 +41,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [2126-destroying-asteroids](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3093-longest-common-suffix-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -68,6 +69,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
@@ -94,4 +96,8 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
