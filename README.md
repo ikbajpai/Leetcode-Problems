@@ -33,6 +33,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [3093-longest-common-suffix-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3931-check-adjacent-digit-differences](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3931-check-adjacent-digit-differences) |
 ## Array
 |  |
@@ -50,6 +51,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Segment Tree
 |  |
 | ------- |
