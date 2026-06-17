@@ -31,6 +31,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
