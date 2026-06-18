@@ -47,6 +47,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0001-two-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [2126-destroying-asteroids](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -76,6 +77,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0015-3sum) |
 | [2126-destroying-asteroids](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -83,6 +85,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
