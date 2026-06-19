@@ -49,6 +49,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0014-longest-common-prefix](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [1732-find-the-highest-altitude](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2126-destroying-asteroids](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -113,6 +114,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
