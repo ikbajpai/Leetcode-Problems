@@ -35,6 +35,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0008-string-to-integer-atoi](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3093-longest-common-suffix-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3612-process-string-with-special-operations-i) |
@@ -90,6 +91,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | ------- |
 | [0015-3sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -135,4 +137,8 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
