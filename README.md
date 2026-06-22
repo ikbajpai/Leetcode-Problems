@@ -29,6 +29,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | ------- |
 | [0001-two-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0012-integer-to-roman) |
+| [1189-maximum-number-of-balloons](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
@@ -38,6 +39,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0012-integer-to-roman](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [3093-longest-common-suffix-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3612-process-string-with-special-operations-i) |
@@ -155,5 +157,6 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
