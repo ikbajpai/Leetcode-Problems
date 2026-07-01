@@ -65,6 +65,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3093-longest-common-suffix-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -116,6 +117,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0004-median-of-two-sorted-arrays](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0704-binary-search) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3932-count-k-th-roots-in-a-range) |
@@ -154,6 +156,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## String Matching
 |  |
@@ -168,4 +171,16 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
