@@ -61,6 +61,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0704-binary-search) |
+| [1260-shift-2d-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1732-find-the-highest-altitude](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1840-maximum-building-height) |
@@ -151,6 +152,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3614-process-string-with-special-operations-ii) |
@@ -190,6 +192,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Combinatorics
 |  |
