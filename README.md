@@ -46,6 +46,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [1189-maximum-number-of-balloons](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [3093-longest-common-suffix-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
@@ -136,6 +137,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Enumeration
 |  |
 | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
