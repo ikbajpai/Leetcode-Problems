@@ -20,6 +20,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [3312-sorted-gcd-pair-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3932-count-k-th-roots-in-a-range) |
@@ -109,6 +110,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [1840-maximum-building-height](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3536-maximum-product-of-two-digits](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
