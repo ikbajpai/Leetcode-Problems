@@ -66,6 +66,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1840-maximum-building-height) |
@@ -106,6 +107,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0015-3sum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
@@ -174,6 +176,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## String Matching
