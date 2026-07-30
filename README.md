@@ -16,6 +16,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [1840-maximum-building-height](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -49,6 +50,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0014-longest-common-prefix](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3093-longest-common-suffix-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -103,6 +105,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [1833-maximum-ice-cream-bars](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
