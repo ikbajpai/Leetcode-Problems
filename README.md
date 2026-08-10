@@ -15,6 +15,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0069-sqrtx](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [1406-stone-game-iii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -152,6 +153,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
@@ -240,4 +242,21 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
