@@ -47,6 +47,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [3312-sorted-gcd-pair-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
@@ -103,6 +104,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Trie
