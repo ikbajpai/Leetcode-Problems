@@ -31,6 +31,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Recursion
 |  |
@@ -114,6 +115,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Trie
 |  |
 | ------- |
