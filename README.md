@@ -81,6 +81,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0015-3sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0695-max-area-of-island](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1406-stone-game-iii) |
@@ -233,15 +234,18 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [1260-shift-2d-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -287,4 +291,8 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
