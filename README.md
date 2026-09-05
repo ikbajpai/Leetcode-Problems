@@ -116,6 +116,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [3838-weighted-word-mapping](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Trie
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [2574-left-and-right-sum-differences](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
 | ------- |
