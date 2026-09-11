@@ -39,6 +39,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | ------- |
 | [0050-powx-n](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0060-permutation-sequence) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -105,6 +107,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -184,6 +187,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
