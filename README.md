@@ -88,6 +88,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0695-max-area-of-island](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -256,6 +257,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [0835-image-overlap](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
