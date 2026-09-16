@@ -18,6 +18,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [1406-stone-game-iii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -183,6 +184,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [1406-stone-game-iii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
@@ -201,6 +203,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -264,6 +267,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
