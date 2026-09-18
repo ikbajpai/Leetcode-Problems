@@ -48,6 +48,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0001-two-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [1189-maximum-number-of-balloons](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -66,6 +67,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0014-longest-common-prefix](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3093-longest-common-suffix-queries](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3093-longest-common-suffix-queries) |
@@ -133,6 +135,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
@@ -147,6 +150,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | ------- |
 | [0015-3sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0015-3sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
