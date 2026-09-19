@@ -15,6 +15,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0069-sqrtx](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -319,4 +320,5 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
