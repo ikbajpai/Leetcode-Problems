@@ -50,6 +50,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | ------- |
 | [0001-two-sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0012-integer-to-roman) |
+| [1096-brace-expansion-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -70,6 +71,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0012-integer-to-roman](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1096-brace-expansion-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -157,6 +159,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0015-3sum) |
+| [1096-brace-expansion-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -266,6 +269,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [1096-brace-expansion-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ikbajpai/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikbajpai/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -334,4 +338,12 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
