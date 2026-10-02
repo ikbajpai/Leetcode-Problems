@@ -70,6 +70,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 | [0008-string-to-integer-atoi](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -197,6 +198,7 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [1406-stone-game-iii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -341,9 +343,14 @@ Leetcode submissions and solutions to these challenges, organized in a way that 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/ikbajpai/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ikbajpai/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
